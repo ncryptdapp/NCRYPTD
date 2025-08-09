@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Static Website</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for font if desired, otherwise Tailwind's defaults are fine */
+        body {
+            font-family: 'Inter', sans-serif; /* A modern, clean sans-serif font */
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 antialiased">
+
+    <div class="min-h-screen flex flex-col items-center py-12 px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl w-full bg-white shadow-xl rounded-lg p-8 sm:p-10 lg:p-12 mb-8 border border-gray-100">
+
+            <header class="text-center mb-10">
+                <h1 class="text-4xl font-extrabold text-gray-900 mb-4">Privacy Policy</h1>
+                <p class="text-lg text-gray-600">Ensuring Your Privacy on Our Static Website</p>
+                <p class="text-sm text-gray-500 mt-2">Last Updated: August 9, 2025</p>
+            </header>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">1. Introduction to Our Privacy Commitment</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    Welcome to our website! We are committed to protecting your privacy and providing a secure online experience. As a static website, our approach to data collection and usage is inherently minimal and significantly more privacy-friendly than most dynamic websites. This policy details how we handle information related to your visit.
+                </p>
+                <p class="leading-relaxed text-gray-700">
+                    Our primary goal is to deliver valuable content and resources while ensuring your peace of mind regarding your personal data.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">2. The Nature of Static Websites & Enhanced Privacy</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    A static website is composed of fixed, pre-built files (such as HTML, CSS, images, and JavaScript) that are directly served to your browser. Unlike dynamic websites, static sites do not typically process user input on a server, interact with databases, or run complex server-side applications that store user data.
+                </p>
+                <p class="leading-relaxed text-gray-700">
+                    This architecture significantly limits the potential for personal data collection and inherently enhances security. Without server-side processing of user data or direct database interactions, many common vulnerabilities exploited for data breaches are simply not present.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">3. Information We Do Not Collect</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    Given the static nature of this website, we do not directly:
+                </p>
+                <ul class="list-disc list-inside ml-4 text-gray-700 leading-relaxed">
+                    <li class="mb-2">Collect personal identifying information (like names, email addresses, physical addresses, or phone numbers) from visitors.</li>
+                    <li class="mb-2">Store any user accounts, profiles, or login credentials.</li>
+                    <li class="mb-2">Process transactions or sensitive financial data.</li>
+                    <li class="mb-2">Employ server-side cookies to track individual users across sessions or for targeted advertising.</li>
+                </ul>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">4. Limited Data Collected & Its Purpose</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    While we prioritize maximum privacy, some minimal, non-identifiable data may be passively collected by our hosting provider for essential website operation, security, and aggregated performance analysis:
+                </p>
+                <ul class="list-disc list-inside ml-4 text-gray-700 leading-relaxed">
+                    <li class="mb-2">
+                        <strong class="font-semibold text-gray-900">Server Access Logs:</strong> Our web hosting provider automatically logs standard, non-personal information such as your IP address (anonymized or truncated where possible), browser type, operating system, referring pages, and timestamps of visits. This data is used for server maintenance, security monitoring, and generating aggregated, anonymized traffic statistics. We do not have direct access to or process this data for individual identification.
+                    </li>
+                    <li class="mb-2">
+                        <strong class="font-semibold text-gray-900">Optional Anonymous Analytics:</strong> We may choose to use a privacy-focused analytics solution (e.g., Plausible Analytics, GoatCounter, or similar self-hosted options) that specifically collects only aggregated and anonymized data about website traffic (e.g., page views, popular content, traffic sources). This type of data cannot be used to identify individual visitors and helps us understand overall content consumption to improve the website's structure and offerings. <span class="text-sm text-gray-500 italic">(Note: As of this policy's last update, we are not utilizing any third-party analytics that collect personal data.)</span>
+                    </li>
+                </ul>
+                <p class="mt-4 leading-relaxed text-gray-700">
+                    None of the above information is linked to any personal identifiers, nor is it used for profiling, targeted advertising, or any purpose beyond general website improvement and security.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">5. Cookies and Tracking Technologies</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    This website does not utilize tracking cookies, persistent identifiers, or similar technologies for advertising, user profiling, or cross-site tracking.
+                </p>
+                <p class="leading-relaxed text-gray-700">
+                    In very limited circumstances, a purely functional, non-identifying cookie might be used (e.g., to remember your preference for a dark/light theme). Such cookies are strictly necessary for basic site functionality and do not store any personal data.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">6. Data Sharing and Disclosure</h2>
+                <p class="leading-relaxed text-gray-700">
+                    As we do not collect personal data on this static website, there is no personal data to share, sell, rent, or disclose to third parties. Your privacy is paramount.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">7. External Links</h2>
+                <p class="leading-relaxed text-gray-700">
+                    Our website may contain links to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these external sites and cannot accept responsibility or liability for their respective privacy policies. We encourage you to review the privacy policy of any site you visit after leaving ours.
+                </p>
+            </section>
+
+            <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">8. Data Security</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    The static nature of this website inherently provides a high level of security. Without databases or server-side applications that process user data, the common attack vectors for data breaches (e.g., SQL injection, cross-site scripting on dynamic content) are largely eliminated.
+                </p>
+                <p class="leading-relaxed text-gray-700">
+                    We also ensure our website is served over HTTPS (Hypertext Transfer Protocol Secure), which encrypts communication between your browser and our server, further enhancing the security and integrity of your connection.
+                </p>
+            </section>
+
+           <section class="mb-8">
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">9. Changes to This Privacy Policy</h2>
+                <p class="leading-relaxed text-gray-700">
+                    We may update our Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top. You are advised to review this Privacy Policy periodically for any changes.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b pb-2">10. Contact Us</h2>
+                <p class="mb-4 leading-relaxed text-gray-700">
+                    If you have any questions or concerns about this Privacy Policy, please feel free to contact us:
+                </p>
+                <p class="text-lg font-medium text-indigo-600">
+                    Email: <a href="mailto:ncryptdstore@gmail.com" class="hover:underline">ncryptdstore@gmail.com</a>
+                </p>
+            </section>
+
+        </div>
+
+        <footer class="text-center text-gray-600 text-sm mt-8">
+            <p>&copy; 2025 The Cryptionary© All rights reserved.</p>
+            <p class="mt-2">
+                <a href="https://ncryptdapp.github.io/Cryptionary/" class="text-indigo-600 hover:underline">Back to The Cryptionary Homepage</a>
+            </p>
+        </footer>
+    </div>
+
+</body>
+</html>
