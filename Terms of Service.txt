@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCRYPTD - Terms of Service</title>
+    <!-- Tailwind CSS CDN for utility classes -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 antialiased font-sans">
+
+    <!-- Header Section -->
+    <header class="bg-indigo-800 text-white py-8 shadow-lg">
+        <div class="container mx-auto px-6 text-center">
+            <h1 class="text-5xl md:text-6xl font-extrabold mb-2 tracking-tight">NCRYPTD</h1>
+            <p class="text-2xl md:text-3xl font-light opacity-90">Terms of Service</p>
+        </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="container mx-auto px-6 py-16">
+        <div class="bg-white p-8 md:p-12 rounded-xl shadow-2xl">
+            <p class="text-lg md:text-xl mb-10 leading-relaxed text-gray-700">
+                Welcome to NCRYPTD. By accessing or using our websites, services, and applications (collectively, the "Services"), you signify your irrevocable agreement to be bound by these Terms of Service ("Terms"). These Terms govern your access to and use of all NCRYPTD Services. Please read them carefully. If you do not agree to these Terms, you must not use our Services.
+            </p>
+
+            <!-- Prominent Anti-Cloning, Copying, and Scraping Clause -->
+            <section class="bg-red-50 border border-red-200 rounded-lg p-8 mb-12 shadow-inner">
+                <h2 class="text-3xl md:text-4xl font-bold text-red-700 mb-6 text-center">
+                    Crucial Agreement on Data Usage: Prohibited Activities
+                </h2>
+                <p class="text-xl leading-relaxed text-red-800 mb-6">
+                    The integrity and security of NCRYPTD's digital assets and the value we provide to our users depend on strict adherence to intellectual property rights and data usage policies. By utilizing our Services, you unequivocally agree that you will <strong class="font-extrabold underline decoration-red-700 decoration-2">NOT</strong> engage in the following prohibited activities:
+                </p>
+                <ul class="list-disc list-inside text-xl text-red-800 mb-6 ml-6 space-y-3">
+                    <li>
+                        <strong>Cloning or Duplication:</strong> You shall not replicate, reproduce, or otherwise create a copy of any part of NCRYPTD's websites, applications, or Services, including their design, layout, code structure, proprietary functionalities, or visual elements, whether for commercial or non-commercial purposes, without the explicit prior written consent of NCRYPTD.
+                    </li>
+                    <li>
+                        <strong>Unauthorized Copying of Content:</strong> You shall not copy, reproduce, distribute, modify, or create derivative works from significant portions of the content, data, or information (including text, images, videos, and interactive elements) available on our Services, beyond what is permitted by applicable copyright law (e.g., fair use) or specific licensing agreements provided by NCRYPTD.
+                    </li>
+                    <li>
+                        <strong>Data Scraping or Automated Extraction:</strong> You shall not use any automated means, including but not limited to bots, spiders, crawlers, data mining tools, or other software, to access, extract, collect, or monitor any data, content, or information from our Services for any purpose whatsoever, including competitive analysis, database creation, re-publication, or commercial exploitation, without the express prior written permission of NCRYPTD. This includes bypassing any robot exclusion headers or similar mechanisms.
+                    </li>
+                </ul>
+                <p class="text-xl leading-relaxed text-red-800 font-semibold">
+                    Any violation of this crucial clause will be deemed a material and irremediable breach of these Terms, leading to immediate and permanent termination of your access to our Services. Furthermore, NCRYPTD reserves the right to pursue all available legal remedies, including injunctive relief, monetary damages, and attorney's fees, to the fullest extent permitted by law.
+                </p>
+            </section>
+
+            <!-- Standard TOS Sections -->
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">1. Acceptance of Terms</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    These Terms represent a legally binding agreement between you and NCRYPTD. By accessing or using the Services, you confirm that you have read, understood, and agree to be bound by these Terms, as well as our Privacy Policy, which is incorporated herein by reference.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">2. Intellectual Property Rights</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    All content, features, and functionality on the Services, including but not limited to text, graphics, logos, icons, images, audio clips, digital downloads, data compilations, software, and the compilation thereof, are the exclusive property of NCRYPTD or its content suppliers and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. Your use of the Services does not grant you any ownership rights in any content, code, data, or materials you may access on or through the Services.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">3. User Conduct</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    You agree to use the Services solely for lawful purposes and in a manner that does not infringe upon the rights of, restrict, or inhibit anyone else's use and enjoyment of the Services. Prohibited behavior includes, but is not limited to, harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Services. Specifically, you agree not to:
+                </p>
+                <ul class="list-disc list-inside text-lg leading-relaxed text-gray-700 mb-6 ml-6 space-y-2">
+                    <li>Engage in any illegal activities or promote illegal activities.</li>
+                    <li>Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity.</li>
+                    <li>Interfere with or disrupt the Services or servers or networks connected to the Services.</li>
+                    <li>Transmit any "junk mail," "chain letters," "spam," or any other form of unsolicited communication.</li>
+                    <li>Collect or store personal data about other users without their express permission.</li>
+                    <li>Introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful.</li>
+                </ul>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">4. Privacy Policy</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    Your use of our Services is also governed by our Privacy Policy, which is an integral part of these Terms. Our Privacy Policy details how we collect, use, store, and disclose information that pertains to your privacy. Please review our Privacy Policy to understand our practices regarding your data.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">5. Disclaimers</h2>
+                <p class="text-lg leading-relaxed text-gray-700 font-bold">
+                    THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NCRYPTD, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIMS ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT OF PROPRIETARY OR THIRD-PARTY RIGHTS, AND THE WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE. NCRYPTD DOES NOT WARRANT THAT THE SERVICES WILL OPERATE ERROR-FREE OR THAT THE SERVICES OR ITS SERVER ARE FREE OF COMPUTER VIRUSES OR OTHER HARMFUL MECHANISMS. IF YOUR USE OF THE SERVICES RESULTS IN THE NEED FOR SERVICING OR REPLACING EQUIPMENT OR DATA, NCRYPTD IS NOT RESPONSIBLE FOR THOSE COSTS.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">6. Limitation of Liability</h2>
+                <p class="text-lg leading-relaxed text-gray-700 font-bold">
+                    IN NO EVENT SHALL NCRYPTD, ITS AFFILIATES, LICENSORS, SERVICE PROVIDERS, OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) RESULTING FROM YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES AND THE CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT NCRYPTD IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">7. Indemnification</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    You agree to defend, indemnify, and hold harmless NCRYPTD, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms of Service or your use of the Services, including, but not limited to, your User Contributions, any use of the Services' content, services, and products other than as expressly authorized in these Terms of Service, or your use of any information obtained from the Services.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">8. Governing Law</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    These Terms of Service and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with the internal laws of [Your Jurisdiction Here, e.g., the State of Delaware] without giving effect to any choice or conflict of law provision or rule.
+                </p>
+            </section>
+
+            <section class="mb-12">
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">9. Changes to Terms</h2>
+                <p class="text-lg leading-relaxed text-gray-700">
+                    We reserve the right, at our sole discretion, to revise and update these Terms from time to time. All changes are effective immediately when we post them and apply to all access to and use of the Services thereafter. Your continued use of the Services following the posting of revised Terms means that you accept and agree to the changes. We encourage you to review these Terms periodically for any updates.
+                </p>
+            </section>
+
+            <section>
+                <h2 class="text-3xl md:text-4xl font-semibold text-indigo-700 mb-6">10. Contact Information</h2>
+                <p class="text-lg leading-relaxed text-gray-700 mb-4">
+                    If you have any questions about these Terms of Service, please do not hesitate to contact us at:
+                </p>
+                <p class="text-lg font-medium text-indigo-600">
+                    Email: <a href="mailto:ncryptdstore@gmail.com" class="hover:underline">ncryptdstore@gmail.com</a><br>
+                    Phone: 401-680-0381
+                </p>
+            </section>
+
+            <p class="text-sm text-gray-500 mt-16 text-center">
+                Last updated: August 9, 2025
+            </p>
+        </div>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="bg-indigo-900 text-white py-8 mt-16">
+        <div class="container mx-auto px-6 text-center">
+            <p class="text-sm opacity-90">&copy; 2025 NCRYPTD. All rights reserved.</p>
+            <p class="text-xs mt-2 opacity-80">Empowering your digital security with integrity.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
